@@ -1,7 +1,6 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash-a11y)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-a11y)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **yash-a11y/yash-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
